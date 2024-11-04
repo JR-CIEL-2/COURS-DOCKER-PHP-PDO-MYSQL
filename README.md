@@ -13,4 +13,4 @@ docker-compose up
 
 ## Travail demandé
 - [EXERCICES PHP serie 2](https://docs.google.com/presentation/d/1PG87x0raTYsk-iZmx32mN_CsQwRd094w0ocE8NHQmkE/edit?usp=sharing)
-- [EXERCICES PHP serie 2](https://docs.google.com/presentation/d/1eMEw64LA3leFQgHyA_3WdMTsA3p8Xv7weeY8qaXls-o/edit?usp=sharing)
+- [Salaire Median des Employés avec BDD mySQL](https://docs.google.com/presentation/d/1eMEw64LA3leFQgHyA_3WdMTsA3p8Xv7weeY8qaXls-o/edit?usp=sharing)
