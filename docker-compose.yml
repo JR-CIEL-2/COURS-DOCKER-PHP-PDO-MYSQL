@@ -22,7 +22,9 @@ services:
       MYSQL_USER: user
       MYSQL_PASSWORD: password
     volumes:
-      - dbdata:/var/lib/mysql
+      - dbdata:/var/lib/mysql 
+    ports:
+      - "3306:3306"  # Expose port 3306
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     environment:
@@ -31,5 +33,5 @@ services:
     ports:
       - "8081:80"
 
-volumes:
-  dbdata:
+volumes: 
+  dbdata:   # volume managé pour sauvegarder la bdd en local
