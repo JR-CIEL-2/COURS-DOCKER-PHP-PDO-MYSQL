@@ -10,3 +10,6 @@
 ```bash
 docker-compose up
 ```
+
+## Travail demandé
+- [EXERCICES PHP serie 2](https://docs.google.com/presentation/d/1PG87x0raTYsk-iZmx32mN_CsQwRd094w0ocE8NHQmkE/edit?usp=sharing)
